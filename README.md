@@ -1,5 +1,6 @@
 <h1>Filmaria<h1/>
-<img>![filmaria](https://user-images.githubusercontent.com/78622458/161268106-7acc635a-b751-4057-aa8e-1c2d9b928c48.jpg)<img/>    
+    
+![filmaria](https://user-images.githubusercontent.com/78622458/161270444-1fc6f0f6-dea0-41ba-b68a-bb07e9b57503.jpg)
 
 ## Catálago de filmes com trailers
 
