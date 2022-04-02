@@ -2,7 +2,7 @@
     
 ![filmaria](https://user-images.githubusercontent.com/78622458/161270444-1fc6f0f6-dea0-41ba-b68a-bb07e9b57503.jpg)
 
-## Catálago de filmes com trailers
+#### Catálago de filmes com trailers
 
 ### 🚀 Tecnologias
 Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
@@ -14,4 +14,4 @@ https://filmariaexercices.netlify.app/
 
 
 ### 🔖 Sobre
-Filmaria, desenvolvido para por em prática os conceitos aprendidos sobre comsumo de api, rotas, components, pages, props e estates. Foi utilizada api desenvolvida pelo @sujeitoprogramador
+Catálago de filmes com trailers, projeto desenvolvido para colocar em prática os conceitos aprendidos sobre consumo de api, rotas, components, pages, props e estates. Foi utilizada api desenvolvida pelo @sujeitoprogramador no curso dele.
